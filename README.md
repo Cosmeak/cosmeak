@@ -1,7 +1,7 @@
 ﻿# Guillaume Fine
 ![cover](https://github.com/guillaume-fine/guillaume-fine/blob/main/img/github_cover.jpg)
 ***
-Hi I'm Guillaume aka PereFection, junior web developper. Actually i'm learning at IIM ([Institut de l'internet et du multimédia](https://www.iim.fr/)).
+Hi I'm Guillaume aka PereFection, web junior developper. Actually i'm learning at IIM ([Institut de l'internet et du multimédia](https://www.iim.fr/)).
 If you want to learn more about me, I'm french and obviously love food 🥐, play video game a lot with my friends (*almost never alone*) 🎮 and read a lot of books (*too much books for my room*) 📚.
 
 
