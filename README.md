@@ -11,3 +11,4 @@ Most of the time, I work during night because nobody can disturb me when I'm foc
 ## My personnal social media
 * *Twitter:* <https://twitter.com/PereFection>
 * *Instagram:* <https://www.instagram.com/guillaumefine/>
+* *Linkedin:* <www.linkedin.com/in/guillaumefine>
