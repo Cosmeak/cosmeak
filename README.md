@@ -1,6 +1,5 @@
 ﻿# Guillaume Fine
 
-***
 Hi I'm Guillaume aka Cosmeak, web junior developper. Actually i'm learning at IIM ([Institut de l'internet et du multimédia](https://www.iim.fr/)).
 If you want to learn more about me, I'm french and obviously love food 🥐, play video game a lot with my friends (*almost never alone*) 🎮 and read a lot of books (*too much books for my room*) 📚.
 
