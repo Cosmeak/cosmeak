@@ -12,4 +12,4 @@ Most of the time, I work during night because nobody can disturb me when I'm foc
 * *Instagram:* <https://www.instagram.com/guillaumefine/>
 * *Linkedin:* <https://www.linkedin.com/in/guillaumefine>
 
-https://github-readme-stats.vercel.app/api/top-langs?username=cosmeak&show_icons=true&locale=en&layout=compact&theme=nord
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmeak&layout=compact)](https://github.com/cosmeak/github-readme-stats)
